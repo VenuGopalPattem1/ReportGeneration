@@ -66,6 +66,6 @@ Here are some screenshots of the Course Selection Application:
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/VenuGopalPattem1/ReportGeneration.git)
    cd <repository-directory>
 
