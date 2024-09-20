@@ -26,11 +26,6 @@ This project is a web application that allows users to select courses based on v
   - **iText**: A library for creating and manipulating PDF documents programmatically.
   - **OpenPDF**: An open-source PDF library used for generating and editing PDF files.
 
-  ## Screenshots
-
-Here are some screenshots of the Course Selection Application:
-
-![Course Selection Page](C:\Users\venuv\Pictures\Screenshots\Screenshot 2024-09-17 144050.png)
 
 ## Features
 
